@@ -40,6 +40,8 @@ int main(){
 			
 		}
 		
+		Sleep(30);
+		
 	}
 	
 	return 0;
